@@ -16,7 +16,7 @@ No 7
  Demo Screenshoot:
  
 ![Image description](https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(1).png)
-![Image description]https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(2).png)
-![Image description]https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(3).png)
-![Image description]https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(4).png)
-![Image description]https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(5).png)
+![Image description] (https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(2).png)
+![Image description] (https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(3).png)
+![Image description] (https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(4).png)
+![Image description]( https://github.com/tejojr/Arkademy-B11K4-A/blob/master/soal7/ss/a%20(5).png)
