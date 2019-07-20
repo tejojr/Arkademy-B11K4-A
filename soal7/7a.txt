@@ -1,0 +1,1 @@
+SELECT name.nama as name, work.name as work, salary.salary as salary from name inner join work on work.id = name.id_work inner join salary on salary.id = name.id_salary
